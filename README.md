@@ -15,4 +15,4 @@ This is a project for machine learning course.<br>The purpose of the project is 
 
 # How To Use
 1. Open the Main Window<br>
-<img src"images/classAttendance1.jpeg">
+<img src="images/classAttendance1.jpeg">
