@@ -15,4 +15,18 @@ This is a project for machine learning course.<br>The purpose of the project is 
 
 # How To Use
 1. Open the Main Window<br>
-<img src="images/classAttendance1.jpeg">
+<img src="images/classAttendance1.jpeg"><br>
+2. Sign Up<br>
+<img src="images/classAttendance2.jpeg"><br>
+3. Login<br>
+<img src="images/classAttendance3.jpeg"><br>
+4. After you login you will see the options page<br>
+<img src="images/classAttendance4.jpeg"><br>
+5. You can add new student<br>
+<img src="images/classAttendance5.jpeg"><br>
+6. You can remove student<br>
+<img src="images/classAttendance6.jpeg"><br>
+7. You can add the class picture for taking attendance<br>
+<img src="images/classAttendance7.jpeg"><br>
+8. You can write the results of calss attendance to clsc file<br>
+<img src="images/classAttendance8.jpeg"><br>
