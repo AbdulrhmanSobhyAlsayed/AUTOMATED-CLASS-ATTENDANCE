@@ -4,11 +4,15 @@ This is a project for machine learning course.<br>The purpose of the project is 
 
 **Build with:**
 <ul>
-  <li>Languge : Python 3.0</li>
+  <li>Language : Python 3.0</li>
   <li>libraries :</li>
   <ul>
     <li>PyQt5 for GUL</li>
-    <li>face_recognition for facial recnition</li>
+    <li>face_recognition for facial recognition</li>
   </ul>
   <li>database: SQLite</li>
 </ul>
+
+# How To Use
+1. Open the Main Window<br>
+<img src"images/classAttendance1.jpeg">
